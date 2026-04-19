@@ -1,2 +1,2 @@
 # DLS
-Задания с ФПМИ-ФИЗТЕХ школы Deep Learning School
+Задания с ФПМИ-МФТИ школы Deep Learning School
